@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "**/.ipynb_checkpoints": true
+  },
+  "python.pythonPath": "C:\\Users\\rob\\Anaconda3\\python.exe"
+}
